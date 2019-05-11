@@ -39,6 +39,12 @@ chmod +x geckodriver.
 sudo mv geckodriver /usr/local/bin/
 ```
 
-Now you are good to go. Just go and run the script. 
+Now you are good to go.
+
+Now write the reply to the tweet in the `tweet_reply.txt` file and run the script using the command
+
+```
+python3 twitter_bot.py
+```
 
 Happy Coding :)
