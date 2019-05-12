@@ -7,7 +7,7 @@ Twitter account details.
 
 The example of script running is shown in the below video,
 
-[![Watch the video](https://img.youtube.com/vi/fdLvY6ek1QY/maxresdefault.jpg)](https://youtu.be/fdLvY6ek1QY)
+[![Watch the video](https://img.youtube.com/vi/M4wTYVx2cqI/maxresdefault.jpg)](https://youtu.be/M4wTYVx2cqI)
 
 In this example video I did not ask the user for Twitter account details because I am using a temporary account for this purpose.
 
