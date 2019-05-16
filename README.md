@@ -25,7 +25,7 @@ pip3 install -r requirements.txt
 
 3. Download geckodriver for Firefox for your OS from the link https://github.com/mozilla/geckodriver/releases
 
-4. After downloading geckodriver, navigate to the folder where the geckodriver is installed and run the commands,
+4. After downloading geckodriver, navigate to the folder where the geckodriver is downloaded and run the commands,
 
 ```
 tar -xvzf <full-name-of-the-downloaded-file>
